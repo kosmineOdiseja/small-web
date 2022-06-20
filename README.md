@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Projektas](./public/2022-06-20%2010-54-42%20(video-converter.com).mp4)
+![Projektas](./public/video.mp4)
 ## Getting Started
 
 First, run the development server:
