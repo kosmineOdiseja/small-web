@@ -13,11 +13,13 @@ function CheckBoxes() {
 	})
 
 
+
 	// const checkBoxHandler = (e) => {
 		// if we are passing one parameter we can stop using the brackets 
 	const checkBoxHandler = e => {
 		setState(state)
 
+		console.log(e.target.checked)
 	}
 
   return (
